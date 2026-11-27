@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Ricartech">
+  <rect width="64" height="64" fill="#111418"/>
+  <path d="M23 46V18h11.4c5.6 0 9.1 3 9.1 7.8 0 3.7-2.1 6.3-5.6 7.2L44 46h-6.2l-5.4-12.1h-3.9V46H23zm5.5-16.6h5.3c2.5 0 4-1.4 4-3.6s-1.5-3.5-4-3.5h-5.3v7.1z" fill="#F1F0EB"/>
+  <rect x="46" y="46" width="12" height="12" fill="#1B2BD6"/>
+</svg>
